@@ -1,12 +1,12 @@
 # Con-POE-INFO-FILE
 
-- Sextant Strongbox Enraged
+╔- Sextant Strongbox Enraged
 https://www.pathofexile.com/trade/search/Crucible/v64eZyjuE
 
-- Abyss
+╠- Abyss
 https://www.pathofexile.com/trade/search/Crucible/gJQ55O6IQ
 
-- Strongbox corrupted
+╚- Strongbox corrupted
 https://www.pathofexile.com/trade/search/Crucible/pEJvn9dS0
 
 - Cemetry Map
