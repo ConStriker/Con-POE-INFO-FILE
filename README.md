@@ -11,3 +11,6 @@ https://www.pathofexile.com/trade/search/Crucible/pEJvn9dS0
 
 - Cemetry Map
 https://www.pathofexile.com/trade/exchange/Crucible/OnOrKoKSE
+
+- Righeous Fire gem
+https://www.pathofexile.com/trade/search/Crucible/gm76jr6SQ
